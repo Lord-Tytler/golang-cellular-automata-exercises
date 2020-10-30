@@ -1,0 +1,1 @@
+"# golang-cellular-automata-exercises" 
